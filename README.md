@@ -16,9 +16,10 @@ GET /api/{ipv4}
 ```
 
 **Parameters:**
-| Parameter | Type | Required | Description |
-|-----------|------|----------|-------------|
-| `ipv4` | string | Yes | Valid IPv4 address to check |
+
+| Parameter | Type   | Required | Description                 |
+| --------- | ------ | -------- | --------------------------- |
+| `ipv4`    | string | Yes      | Valid IPv4 address to check |
 
 **Example Request:**
 
